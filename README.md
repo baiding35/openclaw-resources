@@ -1,32 +1,38 @@
 # OpenClaw Resources
 
-OpenClaw 相关教程和公共资源
+OpenClaw related tutorials and public resources.
 
-## 📚 文档列表
+## Documentation
 
-### 安装与配置
+### Installation and Setup
 
-- [OpenClaw + Kiro Gateway 完整安装指南](docs/openclaw-kiro-gateway-setup.md) - 零成本使用 Claude Sonnet 4.5 的完整方案
+- [OpenClaw + Kiro Gateway Complete Setup Guide](docs/openclaw-kiro-gateway-setup.md) - A complete setup guide for using Claude Sonnet 4.5 with lower cost.
 
-## 🎯 关于本仓库
+### BaidingTokens
 
-本仓库收集和整理 OpenClaw 相关的：
-- 安装教程
-- 配置指南
-- 最佳实践
-- 技能开发
-- 常见问题解答
+- [BaidingTokens：低成本接入顶级大模型的实用平台](docs/baidingtokens-introduction.md) - 中文介绍文章，说明平台定位、使用方式和支持模型。
+- [BaidingTokens: A Practical Platform for Low-Cost Access to Top AI Models](docs/baidingtokens-introduction-en.md) - English introduction covering use cases, workflow, and supported models.
 
-## 📖 相关资源
+## About
 
-- [OpenClaw 官方文档](https://docs.openclaw.ai)
+This repository collects and organizes OpenClaw-related:
+
+- setup tutorials
+- configuration guides
+- best practices
+- developer resources
+- common troubleshooting notes
+
+## Related Resources
+
+- [OpenClaw Docs](https://docs.openclaw.ai)
 - [OpenClaw GitHub](https://github.com/openclaw/openclaw)
 - [Kiro Gateway](https://github.com/jwadow/kiro-gateway)
 
-## 🤝 贡献
+## Contributing
 
-欢迎提交 PR 或 Issue！
+Issues and pull requests are welcome.
 
-## 📄 许可
+## License
 
 MIT License
